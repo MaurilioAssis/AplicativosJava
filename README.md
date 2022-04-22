@@ -1,3 +1,3 @@
 # Aplicativos Java
- Meus aplicativos e classes java
- Meus projetos 
+ Meus projetos, aplicativos e classes java
+ 
